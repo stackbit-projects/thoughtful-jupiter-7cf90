@@ -29,7 +29,7 @@ sections:
         content: |
           We are the best team for ever. 
         align: left
-        image: images/feature.svg
+        image: images/3d'Text.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
