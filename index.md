@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Made by Design
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We are here to help to build your landingpage serverless.
     actions:
       - label: Learn More
         url: /features
